@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "category_name": "All Car"
+    },
+    {
+        "id": 1,
+        "category_name": "Truck"
+    },
+    {
+        "id": 2,
+        "category_name": "Regular car"
+    },
+    {
+        "id": 3,
+        "category_name": "Remote car"
+    },
+    {
+        "id": 4,
+        "category_name": "Sports car"
+    },
+    {
+        "id": 5,
+        "category_name": "Mini Police car"
+    }
+]
